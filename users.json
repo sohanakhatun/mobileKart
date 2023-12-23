@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "username": "adam",
+    "email": "adam@gmail.com",
+    "password": "$2b$10$b2HiVa3.ezNBzCqn2yjQH.BgX3bD1xtEdwTJbgDmFbaCY6omCw2Ty"
+  },
+  {
+    "id": 2,
+    "username": "smith",
+    "email": "smith@gmail.com",
+    "password": "$2b$10$Gpaj4PEAUv63Kmr8vmdLXukL65n6ZT3Z2qUvpex46KitGBcSKiXV6"
+  },
+  {
+    "id": 3,
+    "username": " sohana ",
+    "email": "sohanakhatun465@gmail.com",
+    "password": "$2b$10$Lu1Vw8NZjj5kRvuGKCoNEektOdo0EfA2WJ2DjYCMYjQ8DpYqy1Boi"
+  },
+  {
+    "id": 4,
+    "username": "john doe",
+    "email": "John@gmail.com",
+    "password": "$2b$10$fr1LL9gRefSKwA6dpp3VO.0nZ5G183Kliks49R75901fEZGY1O19K"
+  },
+  {
+    "id": 5,
+    "username": " max black",
+    "email": "maxcoolblack@gmail.com",
+    "password": "$2b$10$OsUfdoFtcWRLBCUN05XsTOJ/ouykGGjnzIWb/0f0u8rJknY9ingqS"
+  },
+  {
+    "id": 6,
+    "username": "dan",
+    "email": "danny@gmail.com",
+    "password": "$2b$10$AtkPQrZgSFnjsTBZ4sNpneOcwU9xddhwjAVsfbDA5KXslDLl7Kx3y"
+  }
+]

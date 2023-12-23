@@ -1,0 +1,124 @@
+{
+        "mobile": [
+                {
+                        "id": "1",
+                        "name": "realme X50 Pro (Moss Green, 256 GB)  (12 GB RAM)",
+                        "price": 323,
+                        "Type": "SmartPhone",
+                        "processor": "Qualcomm Snapdragon 865 Processor",
+                        "memory": "256 GB ROM",
+                        "OS": "Android",
+                        "picture": "data:image/jpeg;base64,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"
+                },
+                {
+                        "id": "2",
+                        "name": "APPLE iPhone 14 Pro Max",
+                        "price": 509,
+                        "Type": "SmartPhone",
+                        "processor": "A16 Bionic Chip, 6 Core Processor",
+                        "memory": "128 GB ROM",
+                        "OS": "iOS",
+                        "picture": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70"
+                },
+                {
+                        "id": "3",
+                        "name": "SAMSUNG Galaxy S23 Ultra 5G (Cream, 256 GB)  (12 GB RAM)",
+                        "price": 999,
+                        "Type": "SmartPhone",
+                        "processor": "Qualcomm Snapdragon 8 Gen 2 Processor",
+                        "memory": "256 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://m.media-amazon.com/images/I/518-9ZaLFML._SX679_.jpg"
+                },
+                {
+                        "id": "4",
+                        "name": "SAMSUNG Galaxy Z Flip4 5G (Graphite, 128 GB)  (8 GB RAM)",
+                        "price": 799,
+                        "Type": "Flip",
+                        "processor": "Qualcomm Snapdragon 8+ Gen 1 Processor",
+                        "memory": "256 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://m.media-amazon.com/images/I/714QNdK8BWL._SX679_.jpg"
+                },
+                {
+                        "id": "5",
+                        "name": "SAMSUNG Galaxy Z Flip5 (Lavender, 256 GB)  (8 GB RAM)",
+                        "price": 999,
+                        "Type": "Flip",
+                        "processor": "Qualcomm Snapdragon 8 Gen 2 Processor",
+                        "memory": "256 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/w/t/galaxy-flip5-sm-f731bliains-samsung-original-imagru5pgwsfnrmq.jpeg?q=70"
+                },
+                {
+                        "id": "6",
+                        "name": "Motorola Razr 2022 Dual-SIM 256GB ROM + 8GB RAM ",
+                        "price": 3229,
+                        "Type": "Flip",
+                        "processor": "Qualcomm Snapdragon 8+ Gen 1 Processor",
+                        "memory": "256 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71bBCl2arhL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+                },
+                {
+                        "id": "7",
+                        "name": "Samsung Galaxy Z Fold4 5G (Beige, 12GB RAM, 256GB Storage) ",
+                        "price": 1399,
+                        "Type": "Fold",
+                        "processor": "Octa-Core",
+                        "memory": "256 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/714QNdK8BWL._SX679_.jpg"
+                },
+                {
+                        "id": "8",
+                        "name": "Oneplus Open (Emerald Dusk, 16GB RAM, 512GB Storage)",
+                        "price": 1399,
+                        "Type": "Fold",
+                        "processor": "Qualcomm Snapdragon 8 Gen 2 Processor",
+                        "memory": "256 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51LByp9EsxL._SX300_SY300_QL70_FMwebp_.jpg"
+                },
+                {
+                        "id": "9",
+                        "name": "APPLE iPhone 15 (Black, 128 GB)",
+                        "price": 772,
+                        "Type": "SmartPhone",
+                        "processor": "A16 Bionic Chip, 6 Core Processor",
+                        "memory": "128 GB ROM",
+                        "OS": "iOS",
+                        "picture": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70"
+                },
+                {
+                        "id": "10",
+                        "name": "APPLE iPhone 14 Pro Max (Deep Purple, 128 GB)",
+                        "price": 1390,
+                        "Type": "Phablet",
+                        "processor": "A16 Bionic Chip, 6 Core Processor",
+                        "memory": "128 GB ROM",
+                        "OS": "iOS",
+                        "picture": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70"
+                },
+                {
+                        "id": "11",
+                        "name": "Google Pixel 6 Pro 5G (Stromy Black, 12GB RAM, 128GB Storage)",
+                        "price": 3290,
+                        "Type": "Phablet",
+                        "processor": "Google Tensor",
+                        "memory": "128 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41QSABTiY3L._SX300_SY300_QL70_FMwebp_.jpg"
+                },
+                {
+                        "id": "12",
+                        "name": "Google Pixel 7 Pro (Snow, 128 GB)  (12 GB RAM)",
+                        "price": 6090,
+                        "Type": "SmartPhone",
+                        "processor": "Google Tensor",
+                        "memory": "128 GB ROM",
+                        "OS": "Android",
+                        "picture": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/p/s/-original-imaggsuemmztbghp.jpeg?q=70"
+                }
+        ]
+}
